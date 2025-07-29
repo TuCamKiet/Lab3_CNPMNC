@@ -1,4 +1,4 @@
-Ngôn ngữ : [us English](README.en.md) | [🇻🇳 Tiếng Việt](README.md)
+Ngôn ngữ : [🇻🇳 Tiếng Việt](README.md)
 # 🎬 Website đặt vé máy bay - TravFruit
 
 Website mô tả quá trình đặt vé máy bay giao diện đơn giản, dễ thao tác, tích hợp thanh toán trực tuyến.
