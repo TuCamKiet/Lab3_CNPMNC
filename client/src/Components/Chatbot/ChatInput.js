@@ -45,6 +45,5 @@ const ChatInput = ({ sendMessage, messages }) => {
     />
   );
 };
-//aaaaa
 
 export default ChatInput;
